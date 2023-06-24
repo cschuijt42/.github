@@ -33,7 +33,13 @@ In the 42 system, a project is scored on a scale from 0 to 100. If a project has
 ### Rank 4
 | Project | Grade | Description |
 | ------- | ----- | ----------- |
+| [**miniRT**](https://github.com/cschuijt42/minirt) | [![Not open yet]()](https://github.com/cschuijt42/minirt) | A raytracer written in C using the minimalistic MLX library. |
 | [**CPP00**](https://github.com/cschuijt42/cpp00) | [![Not open yet]()](https://github.com/cschuijt42/cpp00) | The first of a series of modules about C++ and object-oriented programming, touching on classes, member functions, I/O streams and other core concepts. |
+| [**CPP01**](https://github.com/cschuijt42/cpp01) | [![Not open yet]()](https://github.com/cschuijt42/cpp01) | A module about memory allocation, references, pointers and switches in C++. |
+| [**CPP02**](https://github.com/cschuijt42/cpp02) | [![Not open yet]()](https://github.com/cschuijt42/cpp02) | A module about polymorphism, overloads and orthodox canonical classes in C++. |
+| [**CPP03**](https://github.com/cschuijt42/cpp03) | [![Not open yet]()](https://github.com/cschuijt42/cpp03) | A module about inheritance between classes in C++. |
+| [**CPP04**](https://github.com/cschuijt42/cpp04) | [![Not open yet]()](https://github.com/cschuijt42/cpp04) | A module about subtype polymorphism, abstract classes and interfaces in C++. |
+
 
 ### Other projects (non-core)
 | Project | Grade | Description |

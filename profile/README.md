@@ -1,4 +1,4 @@
-# 42 Projects for cschuijt
+# 42 Projects for [cschuijt](https://github.com/cschuijt)
 To unclutter my main github profile, I have put all the repositories for different Codam/42 projects here.
 
 ## Projects and Grades

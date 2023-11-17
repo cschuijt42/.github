@@ -37,8 +37,8 @@ In the 42 system, a project is scored on a scale from 0 to 100. If a project has
 | [**CPP00**](https://github.com/cschuijt42/cpp00) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp00) | The first of a series of modules about C++ and object-oriented programming, touching on classes, member functions, I/O streams and other core concepts. |
 | [**CPP01**](https://github.com/cschuijt42/cpp01) | [![95/100](https://img.shields.io/badge/grade-95-5cb85c?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp01) | A module about memory allocation, references, pointers and switch statements in C++. |
 | [**CPP02**](https://github.com/cschuijt42/cpp02) | [![80/100](https://img.shields.io/badge/grade-80-5cb85c?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp02) | A module about polymorphism, overloads and orthodox canonical classes in C++. |
-| [**CPP03**](https://github.com/cschuijt42/cpp03) | [![In progress](https://img.shields.io/badge/grade-in%20progress-00babc?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp03) | A module about inheritance between classes in C++. |
-| [**CPP04**](https://github.com/cschuijt42/cpp04) | [![Not open yet](https://img.shields.io/badge/grade-not%20registered-black?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp04) | A module about subtype polymorphism, abstract classes and interfaces in C++. |
+| [**CPP03**](https://github.com/cschuijt42/cpp03) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp03) | A module about inheritance between classes in C++. |
+| [**CPP04**](https://github.com/cschuijt42/cpp04) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/cschuijt42/cpp04) | A module about subtype polymorphism, abstract classes and interfaces in C++. |
 
 
 ### Other projects (non-core)
